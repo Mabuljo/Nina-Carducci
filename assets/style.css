@@ -44,10 +44,6 @@ body {
 	height: 20px;
 }
 
-.sr-only { 
-	display: hidden; 
-}
-
 #about {
 	display: flex;
 	background-color: #F6D2B8;
